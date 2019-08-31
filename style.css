@@ -1,0 +1,68 @@
+body{
+
+}
+
+.banner {
+    background-image: url(https://res.cloudinary.com/shutterdre/image/upload/v1567215646/DSC_1412_gdnakb.jpg);
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.fa-chevron-down{
+	color: white;
+    font-size: 51px;
+
+}
+
+.top {
+	/*background-image: url(../frontend/images/logo.png);
+	background-size: */
+	height: 10vh;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	font-family: Montserrat;
+	font-size: 5px;
+}
+
+.topheading{
+	padding-right: 20px;
+}
+
+.cara {
+
+		display: flex;
+		align-items: center;
+		width: 50vh;
+		margin-left: 66vh;
+    	margin-bottom: 2vh;
+}
+
+
+.middle{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 80vh;
+}
+
+.bottom {
+	/*background-image: url(../frontend/images/logo.png);
+	background-size: */
+	height: 5vh;
+	display: flex;
+	padding-left: 18px;
+	padding-top: 8px;
+	font-family: Montserrat;
+	font-size: 5px;
+}
+
+.bottomheading{
+	padding-right: 20px;
+}
+
+
+
